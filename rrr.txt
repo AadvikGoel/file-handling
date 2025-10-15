@@ -1,1 +1,2 @@
-Hi I am mad
+ File in write mode.....Hi I am mad
+ File in append mode ......Hi I am mad
